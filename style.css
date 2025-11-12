@@ -1,0 +1,39 @@
+.poop{
+    width: 250px;
+    height: 650px;
+    background-color: black;
+    margin: auto;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.qizil{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: auto;
+    border-radius: 200px;
+}
+
+.sariq{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: auto;
+    border-radius: 200px;
+    margin-top: 20px;
+}
+
+.yashil{
+width: 200px;
+height: 200px;
+background-color: green;
+margin: auto;
+border-radius: 200px;
+margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
